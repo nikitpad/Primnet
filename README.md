@@ -25,3 +25,4 @@ namespace PrimnetTestServer
 }
 
 ```
+[Now avaliable on NuGet](https://www.nuget.org/packages/nikitpad.library.Primnet/1.0.0)
